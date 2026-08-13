@@ -1,7 +1,6 @@
-<div align="center">
-
-<img src="assets/omnifuze-logo.svg" alt="OmniFuze AI" width="760">
-
+<p align="center">
+  <img src="./omnifuze-logo.svg" alt="OmniFuze AI" width="180">
+</p>
 # OmniFuze AI
 
 ### Business-aware AI agents and automation for small businesses.
